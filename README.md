@@ -1,2 +1,2 @@
-# coursera-web-development
-Repository for homework from the HTML, CSS, and Javascript for Web Developers course by Johns Hopkins University
+# Coursera: HTML, CSS and Javascript for Web Developers
+This repository contains solutions for assignments for the Coursera.org course called [HTML, CSS and Javascript for Web Developers](https://www.coursera.org/learn/html-css-javascript-for-web-developers).
